@@ -1,0 +1,33 @@
+_repo: Singoalla_28610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rydberg, Viktor
+    aliases:
+    - Rydberg, V. (Viktor)
+    - Rydberg, Victor
+    - Rydberg, Abraham Viktor
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '3156'
+    url: http://www.gutenberg.org/2009/agents/3156
+    wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
+description: ''
+gutenberg_issued: '2009-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28610'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Fiction'
+- !lcsh 'Middle Ages -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PT'
+title: Singoalla
+url: http://www.gutenberg.org/ebooks/28610
